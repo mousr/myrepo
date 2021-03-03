@@ -1,3 +1,2 @@
 - repo pertamaku
-- anjay2
 - revisi 1
